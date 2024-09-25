@@ -91,7 +91,6 @@ header{
     color: #00ff15;
     pointer-events: none;
     transition: .65s;
-    
 }
 .inputbox input:valid ~span,
 .inputbox input:focus ~ span
