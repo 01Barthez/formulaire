@@ -1,3 +1,3 @@
 # Preview
 
-![preview](preview.png)*
+![Preview](src/assets/preview.png)
